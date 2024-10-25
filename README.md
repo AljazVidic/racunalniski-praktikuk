@@ -1,1 +1,1 @@
-# racunalniski-praktikuk
+# Racunalniski praktikum
